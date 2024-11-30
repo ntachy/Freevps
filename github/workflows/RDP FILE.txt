@@ -1,0 +1,21 @@
+
+The code for RDP = docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+আমাদের সাথে যোগাযোগের জন্য,,,,,,,,,,,,,,,,,,,
+আমাদের ফেসবুক পেজ :  https://www.facebook.com/TheSuccessTraining
+টেলিগ্রাম চ্যানেল লিংক :https://t.me/TheSuccessTraining0
